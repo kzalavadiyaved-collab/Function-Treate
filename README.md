@@ -11,8 +11,6 @@ A complete Python project for analyzing and transforming **1D** and **2D** array
 
 </div>
 
-[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)]()
-
 ---
 
 # 📖 Overview
@@ -126,6 +124,9 @@ minimum, maximum, average = statistics(data)
 Stores dataset summary and allows access across different functions.
 
 ---
+
+[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)]()
+
 
 # 📋 Sample Menu
 
